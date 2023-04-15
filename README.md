@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexdb97
-- 👀 I’m interested in IoT Solution / Networking / Data Manipulation 
+- 👀 I’m interested in IoT Solution / Networking-Cloud / Data Manipulation 
 - 🌱 I’m currently studying ICT Solution Architect Curriculum (Master Degree) at University of Pisa
 - 📫 How to reach me alex.dbia@gmail.com
 
